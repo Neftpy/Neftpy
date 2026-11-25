@@ -22,4 +22,4 @@ operacional (SQL + Python + Power BI), com dados sintéticos.
 Tecnólogo em Ciência de Dados, UNINTER
 
 ### Contato
-[LinkedIn](https://www.linkedin.com/in/douglasanalista87)
+[LinkedIn](https://www.linkedin.com/in/douglasanalista872)
